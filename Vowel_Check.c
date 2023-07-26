@@ -2,9 +2,9 @@
 # include<conio.h>
 # include<math.h>
 int main (){
-   char ch;
+   char c;
     printf("Enter any alphabet: ");
-    scanf("%c", &ch);
+    scanf("%c", &c);
     switch(ch)
     {
         case 'a': 
